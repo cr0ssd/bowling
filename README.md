@@ -1,6 +1,6 @@
 # Bowling
 
-**TODO: Add description**
+**description**
 
 ## Installation
 
